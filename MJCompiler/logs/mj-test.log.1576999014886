@@ -1,0 +1,43 @@
+INFO  08:13:34,943 - Compiling source file: C:\Users\ratko\Desktop\PP1-Projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  08:13:34,973 - #2 program
+INFO  08:13:34,973 - #28 P
+INFO  08:13:34,973 - #35 const
+INFO  08:13:34,973 - #28 int
+INFO  08:13:34,973 - #28 size
+INFO  08:13:34,974 - #12 =
+INFO  08:13:34,974 - #25 10
+INFO  08:13:34,974 - #5 ;
+INFO  08:13:34,974 - #38 abstract
+INFO  08:13:34,974 - #36 class
+INFO  08:13:34,975 - #28 Tab
+INFO  08:13:34,975 - #3 {
+INFO  08:13:34,975 - #28 int
+INFO  08:13:34,975 - #28 size
+INFO  08:13:34,975 - #5 ;
+INFO  08:13:34,975 - #3 {
+INFO  08:13:34,976 - #38 abstract
+INFO  08:13:34,976 - #28 int
+INFO  08:13:34,976 - #28 getp
+INFO  08:13:34,976 - #6 (
+INFO  08:13:34,976 - #28 int
+INFO  08:13:34,977 - #28 i
+INFO  08:13:34,977 - #7 )
+INFO  08:13:34,977 - #5 ;
+INFO  08:13:34,977 - #38 abstract
+INFO  08:13:34,977 - #28 int
+INFO  08:13:34,977 - #28 getn
+INFO  08:13:34,977 - #6 (
+INFO  08:13:34,977 - #28 int
+INFO  08:13:34,977 - #28 i
+INFO  08:13:34,977 - #7 )
+INFO  08:13:34,977 - #5 ;
+INFO  08:13:34,978 - #28 int
+INFO  08:13:34,978 - #28 getSize
+INFO  08:13:34,978 - #6 (
+INFO  08:13:34,978 - #7 )
+INFO  08:13:34,978 - #3 {
+INFO  08:13:34,978 - #10 return
+INFO  08:13:34,978 - #28 size
+ERROR 08:13:34,978 - 
+Sintaksna greska na liniji 8
+ERROR 08:13:34,978 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

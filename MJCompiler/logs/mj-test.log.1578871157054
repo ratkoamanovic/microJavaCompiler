@@ -1,0 +1,53 @@
+INFO  00:18:14,557 - Compiling source file: C:\Users\ratko\Desktop\PP1-Projekat\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  00:18:14,588 - #2 program
+INFO  00:18:14,588 - #28 p1
+INFO  00:18:14,588 - #28 char
+INFO  00:18:14,589 - #28 c
+INFO  00:18:14,589 - #5 ;
+INFO  00:18:14,589 - #3 {
+INFO  00:18:14,589 - #13 void
+INFO  00:18:14,590 - #28 main
+INFO  00:18:14,590 - #6 (
+INFO  00:18:14,590 - #7 )
+INFO  00:18:14,590 - #28 int
+INFO  00:18:14,590 - #28 r
+INFO  00:18:14,590 - #5 ;
+INFO  00:18:14,590 - #3 {
+INFO  00:18:14,591 - #34 read
+INFO  00:18:14,591 - #6 (
+INFO  00:18:14,591 - #28 c
+INFO  00:18:14,591 - #7 )
+INFO  00:18:14,591 - #5 ;
+INFO  00:18:14,591 - #28 r
+INFO  00:18:14,591 - #12 =
+INFO  00:18:14,594 - #25 111
+INFO  00:18:14,595 - #5 ;
+INFO  00:18:14,595 - #9 print
+INFO  00:18:14,595 - #6 (
+INFO  00:18:14,595 - #28 c
+INFO  00:18:14,595 - #7 )
+INFO  00:18:14,595 - #5 ;
+INFO  00:18:14,595 - #4 }
+INFO  00:18:14,595 - #13 void
+INFO  00:18:14,596 - #28 asdf
+INFO  00:18:14,596 - #6 (
+INFO  00:18:14,596 - #7 )
+INFO  00:18:14,596 - #28 int
+INFO  00:18:14,596 - #28 k
+INFO  00:18:14,596 - #5 ;
+INFO  00:18:14,596 - #3 {
+INFO  00:18:14,596 - #28 k
+INFO  00:18:14,596 - #12 =
+INFO  00:18:14,596 - #25 1233
+INFO  00:18:14,596 - #5 ;
+INFO  00:18:14,596 - #28 r
+INFO  00:18:14,596 - #12 =
+INFO  00:18:14,596 - #25 1
+INFO  00:18:14,596 - #5 ;
+INFO  00:18:14,596 - #4 }
+INFO  00:18:14,596 - #4 }
+INFO  00:18:14,603 - Detektovano koriscenje globalne promenljive : Var c: char, 0, 0  na liniji 7
+INFO  00:18:14,603 - Detektovano koriscenje globalne promenljive : Var c: char, 0, 0  na liniji 14
+ERROR 00:18:14,603 - Greska na liniji 24 : ime r nije deklarisano! 
+ERROR 00:18:14,603 - Greska na liniji 24 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 00:18:14,603 - Parsiranje NIJE uspesno zavrseno!

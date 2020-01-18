@@ -1,0 +1,309 @@
+INFO  03:27:53,432 - Compiling source file: C:\Users\ratko\Desktop\PP1-Projekat\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  03:27:53,474 - #2 program
+INFO  03:27:53,474 - #28 test301
+INFO  03:27:53,474 - #35 const
+INFO  03:27:53,475 - #28 int
+INFO  03:27:53,475 - #28 nula
+INFO  03:27:53,475 - #12 =
+INFO  03:27:53,475 - #25 0
+INFO  03:27:53,475 - #5 ;
+INFO  03:27:53,475 - #35 const
+INFO  03:27:53,476 - #28 int
+INFO  03:27:53,476 - #28 jedan
+INFO  03:27:53,476 - #12 =
+INFO  03:27:53,476 - #25 1
+INFO  03:27:53,476 - #5 ;
+INFO  03:27:53,476 - #35 const
+INFO  03:27:53,476 - #28 int
+INFO  03:27:53,476 - #28 pet
+INFO  03:27:53,476 - #12 =
+INFO  03:27:53,476 - #25 5
+INFO  03:27:53,476 - #5 ;
+INFO  03:27:53,477 - #28 int
+INFO  03:27:53,477 - #28 niz
+INFO  03:27:53,477 - #14 [
+INFO  03:27:53,477 - #15 ]
+INFO  03:27:53,477 - #5 ;
+INFO  03:27:53,478 - #28 char
+INFO  03:27:53,478 - #28 nizch
+INFO  03:27:53,478 - #14 [
+INFO  03:27:53,478 - #15 ]
+INFO  03:27:53,478 - #5 ;
+INFO  03:27:53,478 - #3 {
+INFO  03:27:53,478 - #28 int
+INFO  03:27:53,479 - #28 incInput
+INFO  03:27:53,479 - #6 (
+INFO  03:27:53,480 - #7 )
+INFO  03:27:53,480 - #28 int
+INFO  03:27:53,481 - #28 i
+INFO  03:27:53,482 - #5 ;
+INFO  03:27:53,482 - #3 {
+INFO  03:27:53,482 - #34 read
+INFO  03:27:53,483 - #6 (
+INFO  03:27:53,483 - #28 i
+INFO  03:27:53,483 - #7 )
+INFO  03:27:53,484 - #5 ;
+INFO  03:27:53,484 - #9 print
+INFO  03:27:53,484 - #6 (
+INFO  03:27:53,484 - #28 i
+INFO  03:27:53,484 - #7 )
+INFO  03:27:53,484 - #5 ;
+INFO  03:27:53,484 - #28 i
+INFO  03:27:53,485 - #16 ++
+INFO  03:27:53,485 - #5 ;
+INFO  03:27:53,485 - #9 print
+INFO  03:27:53,485 - #6 (
+INFO  03:27:53,485 - #28 i
+INFO  03:27:53,485 - #7 )
+INFO  03:27:53,485 - #5 ;
+INFO  03:27:53,485 - #10 return
+INFO  03:27:53,485 - #25 1
+INFO  03:27:53,485 - #5 ;
+INFO  03:27:53,486 - #4 }
+INFO  03:27:53,486 - #13 void
+INFO  03:27:53,486 - #28 main
+INFO  03:27:53,486 - #6 (
+INFO  03:27:53,486 - #7 )
+INFO  03:27:53,486 - #28 int
+INFO  03:27:53,487 - #28 bodovi
+INFO  03:27:53,487 - #5 ;
+INFO  03:27:53,487 - #3 {
+INFO  03:27:53,487 - #28 bodovi
+INFO  03:27:53,487 - #12 =
+INFO  03:27:53,487 - #25 0
+INFO  03:27:53,488 - #5 ;
+INFO  03:27:53,488 - #28 bodovi
+INFO  03:27:53,488 - #16 ++
+INFO  03:27:53,488 - #5 ;
+INFO  03:27:53,489 - #28 bodovi
+INFO  03:27:53,489 - #12 =
+INFO  03:27:53,489 - #28 bodovi
+INFO  03:27:53,489 - #11 +
+INFO  03:27:53,489 - #28 jedan
+INFO  03:27:53,490 - #5 ;
+INFO  03:27:53,491 - #28 bodovi
+INFO  03:27:53,491 - #12 =
+INFO  03:27:53,491 - #28 bodovi
+INFO  03:27:53,491 - #22 *
+INFO  03:27:53,491 - #28 pet
+INFO  03:27:53,493 - #5 ;
+INFO  03:27:53,493 - #28 bodovi
+INFO  03:27:53,493 - #17 --
+INFO  03:27:53,493 - #5 ;
+INFO  03:27:53,493 - #9 print
+INFO  03:27:53,493 - #6 (
+INFO  03:27:53,493 - #28 bodovi
+INFO  03:27:53,494 - #7 )
+INFO  03:27:53,494 - #5 ;
+INFO  03:27:53,494 - #28 niz
+INFO  03:27:53,494 - #12 =
+INFO  03:27:53,494 - #39 new
+INFO  03:27:53,494 - #28 int
+INFO  03:27:53,494 - #14 [
+INFO  03:27:53,494 - #25 3
+INFO  03:27:53,494 - #15 ]
+INFO  03:27:53,495 - #5 ;
+INFO  03:27:53,495 - #28 niz
+INFO  03:27:53,495 - #14 [
+INFO  03:27:53,496 - #28 nula
+INFO  03:27:53,496 - #15 ]
+INFO  03:27:53,497 - #12 =
+INFO  03:27:53,497 - #28 jedan
+INFO  03:27:53,497 - #5 ;
+INFO  03:27:53,497 - #28 niz
+INFO  03:27:53,497 - #14 [
+INFO  03:27:53,497 - #25 1
+INFO  03:27:53,497 - #15 ]
+INFO  03:27:53,497 - #12 =
+INFO  03:27:53,497 - #25 2
+INFO  03:27:53,497 - #5 ;
+INFO  03:27:53,497 - #28 niz
+INFO  03:27:53,498 - #14 [
+INFO  03:27:53,498 - #28 niz
+INFO  03:27:53,498 - #14 [
+INFO  03:27:53,498 - #28 jedan
+INFO  03:27:53,498 - #15 ]
+INFO  03:27:53,498 - #15 ]
+INFO  03:27:53,498 - #12 =
+INFO  03:27:53,498 - #28 niz
+INFO  03:27:53,498 - #14 [
+INFO  03:27:53,498 - #28 niz
+INFO  03:27:53,498 - #14 [
+INFO  03:27:53,498 - #25 0
+INFO  03:27:53,498 - #15 ]
+INFO  03:27:53,501 - #15 ]
+INFO  03:27:53,501 - #22 *
+INFO  03:27:53,501 - #25 3
+INFO  03:27:53,501 - #5 ;
+INFO  03:27:53,501 - #28 bodovi
+INFO  03:27:53,501 - #12 =
+INFO  03:27:53,501 - #28 niz
+INFO  03:27:53,501 - #14 [
+INFO  03:27:53,501 - #25 2
+INFO  03:27:53,501 - #15 ]
+INFO  03:27:53,501 - #23 /
+INFO  03:27:53,501 - #28 niz
+INFO  03:27:53,502 - #14 [
+INFO  03:27:53,502 - #25 0
+INFO  03:27:53,502 - #15 ]
+INFO  03:27:53,502 - #5 ;
+INFO  03:27:53,502 - #9 print
+INFO  03:27:53,502 - #6 (
+INFO  03:27:53,502 - #28 bodovi
+INFO  03:27:53,502 - #7 )
+INFO  03:27:53,502 - #5 ;
+INFO  03:27:53,502 - #9 print
+INFO  03:27:53,502 - #6 (
+INFO  03:27:53,502 - #28 niz
+INFO  03:27:53,502 - #14 [
+INFO  03:27:53,502 - #25 2
+INFO  03:27:53,502 - #15 ]
+INFO  03:27:53,502 - #7 )
+INFO  03:27:53,502 - #5 ;
+INFO  03:27:53,502 - #28 niz
+INFO  03:27:53,502 - #14 [
+INFO  03:27:53,502 - #25 1
+INFO  03:27:53,502 - #15 ]
+INFO  03:27:53,502 - #16 ++
+INFO  03:27:53,502 - #5 ;
+INFO  03:27:53,503 - #9 print
+INFO  03:27:53,503 - #6 (
+INFO  03:27:53,503 - #28 niz
+INFO  03:27:53,503 - #14 [
+INFO  03:27:53,503 - #25 1
+INFO  03:27:53,503 - #15 ]
+INFO  03:27:53,503 - #7 )
+INFO  03:27:53,503 - #5 ;
+INFO  03:27:53,503 - #28 niz
+INFO  03:27:53,503 - #14 [
+INFO  03:27:53,503 - #25 2
+INFO  03:27:53,503 - #15 ]
+INFO  03:27:53,503 - #17 --
+INFO  03:27:53,503 - #5 ;
+INFO  03:27:53,503 - #9 print
+INFO  03:27:53,503 - #6 (
+INFO  03:27:53,503 - #28 niz
+INFO  03:27:53,503 - #14 [
+INFO  03:27:53,503 - #25 2
+INFO  03:27:53,503 - #15 ]
+INFO  03:27:53,503 - #7 )
+INFO  03:27:53,503 - #5 ;
+INFO  03:27:53,503 - #28 nizch
+INFO  03:27:53,503 - #12 =
+INFO  03:27:53,503 - #39 new
+INFO  03:27:53,503 - #28 char
+INFO  03:27:53,503 - #14 [
+INFO  03:27:53,503 - #25 3
+INFO  03:27:53,503 - #15 ]
+INFO  03:27:53,503 - #5 ;
+INFO  03:27:53,503 - #28 nizch
+INFO  03:27:53,504 - #14 [
+INFO  03:27:53,504 - #25 0
+INFO  03:27:53,504 - #15 ]
+INFO  03:27:53,504 - #12 =
+INFO  03:27:53,504 - #26 a
+INFO  03:27:53,504 - #5 ;
+INFO  03:27:53,504 - #28 nizch
+INFO  03:27:53,504 - #14 [
+INFO  03:27:53,504 - #28 jedan
+INFO  03:27:53,504 - #15 ]
+INFO  03:27:53,504 - #12 =
+INFO  03:27:53,504 - #26 b
+INFO  03:27:53,504 - #5 ;
+INFO  03:27:53,504 - #28 nizch
+INFO  03:27:53,504 - #14 [
+INFO  03:27:53,504 - #28 pet
+INFO  03:27:53,504 - #20 -
+INFO  03:27:53,504 - #25 3
+INFO  03:27:53,505 - #15 ]
+INFO  03:27:53,505 - #12 =
+INFO  03:27:53,505 - #26 c
+INFO  03:27:53,505 - #5 ;
+INFO  03:27:53,505 - #9 print
+INFO  03:27:53,505 - #6 (
+INFO  03:27:53,505 - #28 nizch
+INFO  03:27:53,505 - #14 [
+INFO  03:27:53,505 - #25 1
+INFO  03:27:53,505 - #15 ]
+INFO  03:27:53,505 - #7 )
+INFO  03:27:53,505 - #5 ;
+INFO  03:27:53,505 - #9 print
+INFO  03:27:53,505 - #6 (
+INFO  03:27:53,505 - #28 nizch
+INFO  03:27:53,505 - #14 [
+INFO  03:27:53,505 - #28 jedan
+INFO  03:27:53,505 - #22 *
+INFO  03:27:53,505 - #25 2
+INFO  03:27:53,505 - #15 ]
+INFO  03:27:53,505 - #7 )
+INFO  03:27:53,505 - #5 ;
+INFO  03:27:53,505 - #28 bodovi
+INFO  03:27:53,505 - #12 =
+INFO  03:27:53,505 - #28 bodovi
+INFO  03:27:53,505 - #11 +
+INFO  03:27:53,505 - #6 (
+INFO  03:27:53,505 - #28 pet
+INFO  03:27:53,505 - #22 *
+INFO  03:27:53,505 - #28 jedan
+INFO  03:27:53,505 - #20 -
+INFO  03:27:53,505 - #25 1
+INFO  03:27:53,505 - #7 )
+INFO  03:27:53,506 - #22 *
+INFO  03:27:53,506 - #28 bodovi
+INFO  03:27:53,506 - #20 -
+INFO  03:27:53,506 - #6 (
+INFO  03:27:53,506 - #25 3
+INFO  03:27:53,506 - #24 %
+INFO  03:27:53,508 - #25 2
+INFO  03:27:53,508 - #11 +
+INFO  03:27:53,508 - #25 3
+INFO  03:27:53,508 - #22 *
+INFO  03:27:53,508 - #25 2
+INFO  03:27:53,508 - #20 -
+INFO  03:27:53,508 - #25 3
+INFO  03:27:53,508 - #7 )
+INFO  03:27:53,509 - #5 ;
+INFO  03:27:53,509 - #9 print
+INFO  03:27:53,509 - #6 (
+INFO  03:27:53,509 - #28 bodovi
+INFO  03:27:53,509 - #7 )
+INFO  03:27:53,509 - #5 ;
+INFO  03:27:53,509 - #28 incInput
+INFO  03:27:53,509 - #6 (
+INFO  03:27:53,509 - #7 )
+INFO  03:27:53,510 - #5 ;
+INFO  03:27:53,510 - #4 }
+INFO  03:27:53,510 - #4 }
+INFO  03:27:53,522 - Detektovano koriscenje konstante na liniji 28
+INFO  03:27:53,522 - Detektovano koriscenje konstante na liniji 29
+INFO  03:27:53,522 - Detektovano koriscenje globalne promenljive na liniji 34
+INFO  03:27:53,522 - Detektovano koriscenje globalne promenljive na liniji 35
+INFO  03:27:53,522 - Detektovano koriscenje konstante na liniji 35
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 35
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 36
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 37
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 37
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 37
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 37
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 37
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 38
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 38
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 40
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 42
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 43
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 44
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 45
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 46
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 47
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 48
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 48
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 49
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 49
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 50
+INFO  03:27:53,523 - Detektovano koriscenje globalne promenljive na liniji 51
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 51
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 54
+INFO  03:27:53,523 - Detektovano koriscenje konstante na liniji 54
+INFO  03:27:53,523 - Detektovano koriscenje globalne metode na liniji 57
+ERROR 03:27:53,523 - Main ne postoji u programu test301 na liniji 3
+ERROR 03:27:53,524 - Parsiranje NIJE uspesno zavrseno!

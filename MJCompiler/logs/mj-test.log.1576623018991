@@ -1,0 +1,44 @@
+INFO  23:49:55,583 - Compiling source file: C:\Users\ratko\Desktop\PP1-Projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:49:55,603 - #2 program
+INFO  23:49:55,603 - #19 MJProgram
+INFO  23:49:55,603 - #22 const
+INFO  23:49:55,604 - #19 bool
+INFO  23:49:55,604 - #19 a
+INFO  23:49:55,604 - #12 =
+INFO  23:49:55,604 - #18 true
+INFO  23:49:55,604 - #5 ;
+INFO  23:49:55,605 - #19 int
+INFO  23:49:55,605 - #19 x
+INFO  23:49:55,605 - #5 ;
+INFO  23:49:55,605 - #19 int
+INFO  23:49:55,606 - #19 y
+INFO  23:49:55,606 - #5 ;
+INFO  23:49:55,606 - #22 const
+INFO  23:49:55,606 - #19 int
+INFO  23:49:55,606 - #19 asd
+INFO  23:49:55,606 - #12 =
+INFO  23:49:55,606 - #16 12
+INFO  23:49:55,606 - #8 ,
+INFO  23:49:55,607 - #19 asdf
+INFO  23:49:55,607 - #12 =
+INFO  23:49:55,607 - #16 14
+INFO  23:49:55,607 - #5 ;
+INFO  23:49:55,607 - #23 class
+INFO  23:49:55,607 - #19 Table
+INFO  23:49:55,607 - #24 extends
+INFO  23:49:55,607 - #19 Tab
+INFO  23:49:55,607 - #3 {
+INFO  23:49:55,607 - #19 int
+INFO  23:49:55,608 - #19 pos
+INFO  23:49:55,608 - #14 [
+INFO  23:49:55,608 - #15 ]
+INFO  23:49:55,608 - #8 ,
+INFO  23:49:55,608 - #19 neg
+INFO  23:49:55,608 - #14 [
+INFO  23:49:55,608 - #15 ]
+INFO  23:49:55,608 - #5 ;
+INFO  23:49:55,608 - #3 {
+INFO  23:49:55,608 - #13 void
+ERROR 23:49:55,608 - 
+Sintaksna greska na liniji 9
+ERROR 23:49:55,608 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9
